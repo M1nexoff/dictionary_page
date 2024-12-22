@@ -1,4 +1,4 @@
-# Dictionary - English to Uzbek App
+# Dictionary - English & Uzbek App
 
 Welcome to the **Dictionary App** repository! This is a native **Android** application for translating words between **English** and **Uzbek**. It also includes **history** and **favourites** features, allowing users to save and revisit their search terms. The app is built using **Android Native**, following **Clean Architecture**, **MVP** pattern, and incorporating several powerful features like **Text-to-Speech (TTS)**, **Room Database**, and **BottomNavigation**.
 
