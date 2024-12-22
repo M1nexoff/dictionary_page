@@ -14,7 +14,7 @@ The app uses **Room Database** to store data locally, allowing for quick access 
 
 ### 🚀 **Features**
 
-- **English to Uzbek Dictionary**: Provides translations between English and Uzbek.
+- **English $ Uzbek Dictionary**: Provides translations between English and Uzbek.
 - **History**: Keeps track of recent translations for easy access.
 - **Favourites**: Allows users to save their favourite translations for quick reference.
 - **Text-to-Speech (TTS)**: Listen to the pronunciation of words in both English and Uzbek.
